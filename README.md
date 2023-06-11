@@ -16,6 +16,8 @@ To use this transcriptomics reporting pipeline, ensure that you have the followi
 
 2. Install the required dependencies mentioned in the 'Requirements' section.
 
+## Usage
+
 1. Place your whole blood transcriptomics data files in the appropriate directory (data/ or any other designated directory).
 
 2. Modify the configuration file (config.yaml) to specify the input data files, parameters, and other options for the analysis.
